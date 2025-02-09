@@ -16,18 +16,18 @@ import Calli from "../assets/Calli.png";
 import Slide from "./Slide";
 
 const products = [
-  { id: 1, img: Pen, name: "Customized Mugs", desc: "High-quality, personalized mugs perfect for gifting.", price: "₹900", originalPrice: "₹1000" },
-  { id: 2, img: Frame, name: "Customized Frames", desc: "Elegant custom frames to cherish your memories.", price: "₹800", originalPrice: "₹900" },
-  { id: 3, img: Lock, name: "Customized Keychains", desc: "Stylish and durable personalized keychains.", price: "₹700", originalPrice: "₹800" },
-  { id: 4, img: Beautiful, name: "Premium Pens", desc: "Premium engraved pens for a personal touch.", price: "₹850", originalPrice: "₹970" },
-  { id: 5, img: Aes, name: "Customized Pics", desc: "Premium engraved aesthetic photos for a personal touch.", price: "₹850", originalPrice: "₹970" },
-  { id: 6, img: Cpen, name: "Customized Pens", desc: "Customized engraved pens for a personal touch.", price: "₹850", originalPrice: "₹970" },
-  { id: 7, img: Namep, name: "Customized Name Badge", desc: "Professionally engraved name badge.", price: "₹850", originalPrice: "₹970" },
-  { id: 8, img: Photo, name: "Personalized Photo Collage", desc: "Customized photo collage.", price: "₹850", originalPrice: "₹970" },
-  { id: 9, img: Pics, name: "Customized Polaroid Prints", desc: "Personalized polaroid-style prints.", price: "₹850", originalPrice: "₹970" },
-  { id: 10, img: Chai, name: "Personalized Engraved Mug", desc: "Beautifully engraved mug.", price: "₹850", originalPrice: "₹970" },
-  { id: 11, img: Bottle, name: "Personalized Engraved Bottle", desc: "Stylish bottle with custom engraving.", price: "₹850", originalPrice: "₹970" },
-  { id: 12, img: Calli, name: "Customized Calligraphy Art", desc: "Handcrafted calligraphy artwork.", price: "₹850", originalPrice: "₹970" },
+  { id: 1, img: Pen, name: "Customized Mugs", desc: "High-quality, personalized mugs perfect for gifting.", price: "₹250", originalPrice: "₹350" },
+  { id: 2, img: Frame, name: "Customized Frames", desc: "Elegant custom frames to cherish your memories.", price: "₹850", originalPrice: "₹1000" },
+  { id: 3, img: Lock, name: "Customized Keychains", desc: "Stylish and durable personalized keychains.", price: "₹250", originalPrice: "₹300" },
+  { id: 4, img: Beautiful, name: "Premium Pens", desc: "Premium engraved pens for a personal touch.", price: "₹250", originalPrice: "₹300" },
+  { id: 5, img: Aes, name: "Customized digital frame", desc: "Premium aesthetic photo frame for a personal touch.", price: "₹350", originalPrice: "₹450" },
+  { id: 6, img: Cpen, name: "Customized Pens", desc: "Customized engraved pens for a personal touch.", price: "₹250", originalPrice: "350" },
+  { id: 7, img: Namep, name: "Customized Name Badge", desc: "Professionally engraved name badge.", price: "₹120", originalPrice: "₹299" },
+  { id: 8, img: Photo, name: "Personalized Photo Collage", desc: "Customized photo collage.", price: "₹350", originalPrice: "₹450" },
+  { id: 9, img: Pics, name: "Customized Polaroid Prints", desc: "Personalized polaroid-style prints.", price: "₹199", originalPrice: "₹299" },
+  { id: 10, img: Chai, name: "Personalized sublimation Mug", desc: "Beautiful sublimation mug.", price: "₹250", originalPrice: "₹350" },
+  { id: 11, img: Bottle, name: "Personalized Engraved Bottle", desc: "Stylish bottle with custom engraving.", price: "₹550", originalPrice: "₹650" },
+  { id: 12, img: Calli, name: "Customized Calligraphy Art", desc: "Handcrafted calligraphy artwork.", price: "₹400", originalPrice: "₹600" },
 ];
 
 const Products = () => {
