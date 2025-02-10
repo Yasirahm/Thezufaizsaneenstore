@@ -71,7 +71,7 @@ const Contact = () => {
                 name="name"
                 value={formData.name}
                 onChange={handleChange}
-                className="w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
+                className="w-full p-3 border bg-purple-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
                 placeholder="Your Name"
                 required
               />
@@ -84,7 +84,7 @@ const Contact = () => {
                 name="email"
                 value={formData.email}
                 onChange={handleChange}
-                className="w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
+                className="w-full p-3 border bg-purple-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
                 placeholder="Your Email"
                 required
               />
@@ -97,7 +97,7 @@ const Contact = () => {
                 name="phone"
                 value={formData.phone}
                 onChange={handleChange}
-                className="w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
+                className="w-full p-3 border bg-purple-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
                 placeholder="Your Phone Number"
                 required
               />
@@ -109,7 +109,7 @@ const Contact = () => {
                 name="message"
                 value={formData.message}
                 onChange={handleChange}
-                className="w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
+                className="w-full p-3 border bg-purple-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-900"
                 rows="4"
                 placeholder="Your Message"
                 required
@@ -122,7 +122,7 @@ const Contact = () => {
                 name="rating"
                 value={formData.rating}
                 onChange={handleChange}
-                className="w-full p-3 border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
+                className="w-full p-3 border bg-purple-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-500"
               >
                 <option value="5">⭐️⭐️⭐️⭐️⭐️ (Excellent)</option>
                 <option value="4">⭐️⭐️⭐️⭐️ (Good)</option>

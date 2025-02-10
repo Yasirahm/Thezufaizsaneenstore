@@ -15,7 +15,7 @@ const Footer = () => {
       <p className="text-xs sm:text-sm">
         📞 Need help? Contact us at{" "}
         <a href="mailto:support@zufaizsaneenstore.com" className="underline">
-          ratherseenu16@gmail.com
+        zufaizsaneen@gmail.com
         </a>
       </p>
       <div className="flex justify-center space-x-4 mt-10">

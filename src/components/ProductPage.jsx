@@ -4,7 +4,7 @@ import Cup from "../assets/Cup.jpg";
 import Namep from "../assets/Namep.png";
 import Calli from "../assets/Calli.png";
 import Pen1 from "../assets/Pen1.png";
-import pen2 from "../assets/pen2.png";
+import pen2 from "../assets/Pen2.png";
 import pen3 from "../assets/pen3.png";
 import pic1 from "../assets/pics1.png";
 import pic2 from "../assets/pics2.png";
@@ -50,7 +50,7 @@ import { Link } from "react-router-dom";
 
 const productData = {
   1: { name: "Customized Mugs", desc: "High-quality, personalized mugs perfect for gifting.", price: "₹250", originalPrice: "₹350", deliveryCharge: " delivery charge as per shipping address", images: [chai1, chai2, chai3] },
-  2: { name: "Customized Frames", desc: "Elegant custom frames to cherish your memories.", price: "₹850", originalPrice: "₹1000", deliveryCharge: "delivery charge as per shipping address", images: [frame1, frame2, frame3, frame4, frame6, frame7] },
+  2: { name: "Customized Frames", desc: "Elegant custom frames to cherish your memories.", price: "₹350", originalPrice: "₹450", deliveryCharge: "delivery charge as per shipping address", images: [frame1, frame2, frame3, frame4, frame6, frame7] },
   3: { name: "Customized Keychains", desc: "Stylish and durable personalized keychains.", price: "₹250", originalPrice: "₹300", deliveryCharge: "delivery charge as per shipping address", images: [lock3, lock2, lock1] },
   4: { name: "Customized Pens", desc: "Elegant pens with custom engravings.", price: "₹250", originalPrice: "₹300", deliveryCharge: "delivery charge as per shipping address", images: [beautiful1, beautiul3, beautiful2] },
   5: { name: "Aesthetic Photo Frames", desc: "Beautiful frames to enhance your home decor.", price: "₹350", originalPrice: "₹450", deliveryCharge: "delivery charge as per shipping address", images: [aes1, aes2, aes3] },

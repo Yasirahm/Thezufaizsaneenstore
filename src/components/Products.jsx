@@ -17,7 +17,7 @@ import Slide from "./Slide";
 
 const products = [
   { id: 1, img: Pen, name: "Customized Mugs", desc: "High-quality, personalized mugs perfect for gifting.", price: "₹250", originalPrice: "₹350" },
-  { id: 2, img: Frame, name: "Customized Frames", desc: "Elegant custom frames to cherish your memories.", price: "₹850", originalPrice: "₹1000" },
+  { id: 2, img: Frame, name: "Customized Frames", desc: "Elegant custom frames to cherish your memories.", price: "₹350", originalPrice: "₹450" },
   { id: 3, img: Lock, name: "Customized Keychains", desc: "Stylish and durable personalized keychains.", price: "₹250", originalPrice: "₹300" },
   { id: 4, img: Beautiful, name: "Premium Pens", desc: "Premium engraved pens for a personal touch.", price: "₹250", originalPrice: "₹300" },
   { id: 5, img: Aes, name: "Customized digital frame", desc: "Premium aesthetic photo frame for a personal touch.", price: "₹350", originalPrice: "₹450" },
